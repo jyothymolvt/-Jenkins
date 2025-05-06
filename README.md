@@ -2,9 +2,9 @@
 
 Jenkins is a popular open-source automation server used to automate the building, testing, and deployment of software projects.
 
-    Written in Java and widely used for Continuous Integration (CI) and Continuous Delivery (CD).
-    Supports hundreds of plugins to integrate with almost any tool in the DevOps pipeline.
-    Easily extendable and customizable for complex workflows.
+- Written in Java and widely used for Continuous Integration (CI) and Continuous Delivery (CD).
+- Supports hundreds of plugins to integrate with almost any tool in the DevOps pipeline.
+- Easily extendable and customizable for complex workflows.
 
 🧱 Types of Jenkins Jobs
     ✅ Freestyle (for beginners/simple use)
